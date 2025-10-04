@@ -1,5 +1,5 @@
 # 🌞 Sp4ce Weather
-
+👉 Ver demo aquí: https://teamsp4ceweather.github.io/Nasaspaceappchallenge/
 Proyecto educativo creado para el **NASA Space Apps Challenge 2025** por el equipo **Sp4ce Weather**. Su objetivo es enseñar de forma visual, divertida y comprensible qué es el **clima espacial**, cómo se genera, y cómo afecta a la vida en la Tierra.
 
 ---
@@ -97,3 +97,4 @@ Participante del **NASA Space Apps Challenge 2025**
 ## 📜 Licencia
 
 Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo con fines educativos.
+
